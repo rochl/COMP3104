@@ -1,4 +1,4 @@
-`
+
 language: node_js
 node_js:
  - "stable"
@@ -9,4 +9,3 @@ deploy:
  local_dir: build
  on:
  branch: master
-`
